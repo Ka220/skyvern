@@ -328,7 +328,7 @@ If you want to chat with the skyvern repository to get a high level overview of 
 By Default, Skyvern collects basic usage statistics to help us understand how Skyvern is being used. If you would like to opt-out of telemetry, please set the `SKYVERN_TELEMETRY` environment variable to `false`.
 
 # License
-Skyvern's open source repository is supported via a managed cloud. All of the core logic powering Skyvern is available in this open source repository licensed under the [AGPL-3.0 License](LICENSE), with the exception of anti-bot measures available in our managed cloud offering. 
+Skyvern's open source repository is supported via a managed cloud. All of the core logic powering Skyvern is available in this open source repository licensed unde isur the [AGPL-3.0 License](LICENSE), with the exception of anti-bot measures available in our managed cloud offering. 
 
 If you have any questions or concerns around licensing, please [contact us](mailto:founders@skyvern.com) and we would be happy to help.
 
